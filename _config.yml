@@ -2,7 +2,7 @@ url: https://kotonyan.github.io/Kira_Star/
 baseurl: /Kira_Star/
 
 # Site settings
-title: 绮罗星文化传媒
+title: Kira Star Studio
 email: kotonyan_carnival@qq.com
 description: "福州绮罗星文化传媒有限公司成立于2018年底，主营游戏相关的翻译本地化、文本撰写、宣传推广等业务。"
 
@@ -12,12 +12,12 @@ social:
     url: 
   - title: twitter
     url:
-  - title: QQ
-    url: 
   - title: wechat
-    url: 
+    url: Kotonyan
+  - title: mail
+    url: kotonyan_carnival@qq.com
   - title: phone
-    url: 
+    url: （+86）18516340877
 
 # Postal address (add as many lines as necessary)
 address:
