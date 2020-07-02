@@ -1,5 +1,5 @@
 ---
-title:『CodyCross: Crossword Puzzles』（iOS/Android）
+title: 『CodyCross: Crossword Puzzles』（iOS/Android）
 subtitle: 
 layout: default
 modal-id: 1
