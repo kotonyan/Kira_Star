@@ -4,7 +4,7 @@ baseurl: /Kira_Star/
 # Site settings
 title: Kira Star Studio
 email: kotonyan_carnival@qq.com
-description: "福州绮罗星文化传媒有限公司成立于2018年底，主营游戏相关的翻译本地化、文本撰写、宣传推广等业务。"
+description: "以翻译质量取胜，以玩家需求为先。"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -14,7 +14,7 @@ social:
     url:
   - title: wechat
     url: Kotonyan
-  - title: mail
+  - title: e-mail
     url: kotonyan_carnival@qq.com
   - title: phone
     url: （+86）18516340877
