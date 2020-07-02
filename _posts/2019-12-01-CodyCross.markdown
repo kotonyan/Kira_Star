@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2019-12-01
 img: CodyCross- Crossword Puzzles-header.jpg
-thumbnail: CodyCross- Crossword Puzzles-header.jpg
+thumbnail: 
 alt: image-alt
 project-date: December 2019
 client: Fanatee
