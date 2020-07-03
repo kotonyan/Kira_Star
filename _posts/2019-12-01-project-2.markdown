@@ -1,0 +1,15 @@
+---
+title: Monster Strike The Animetion
+subtitle: Subtitle translation
+layout: default
+modal-id: 2
+date: 2019-12-01
+img: Monster Strike The Animetion-header.jpg
+thumbnail: Monster Strike The Animetion-header.jpg
+alt: image-alt
+project-date: December 2019
+client: mixi, Inc.
+category: Subtitle translation
+description: 第三季第58话～第63话、剧场版第二作《空之彼方》字幕翻译（日文→中文）
+
+---
